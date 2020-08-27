@@ -2,7 +2,7 @@ def new_hash
   empty_hash = {}
 end
 
-def actor
+def actor #create and return hash w/ certain actor's name 
 
 end
 
