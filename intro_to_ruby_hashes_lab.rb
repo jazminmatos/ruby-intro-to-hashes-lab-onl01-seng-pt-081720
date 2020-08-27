@@ -7,7 +7,7 @@ def actor #create and return hash w/ certain actor's name
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {railroads:}
 
 end
 
