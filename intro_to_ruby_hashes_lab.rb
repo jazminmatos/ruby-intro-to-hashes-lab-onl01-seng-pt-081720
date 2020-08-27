@@ -7,7 +7,7 @@ def actor #create and return hash w/ certain actor's name
 end
 
 def monopoly
-	monopoly = {railroads: {}}
+	monopoly = {railroads: {pieces: 4}}
 end
 
 def monopoly_with_second_tier
