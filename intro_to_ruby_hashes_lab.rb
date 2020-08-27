@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor #create and return hash w/ certain actor's name 
-
+  
 end
 
 def monopoly
